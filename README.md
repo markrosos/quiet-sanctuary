@@ -14,7 +14,7 @@ Quiet Sanctuary is an Elder Scrolls Online addon designed to adjust the ambient 
 
 ## Installation
 
-1. Download the latest release from [GitHub](https://github.com/your-username/quiet-sanctuary/releases).
+1. Download the latest release from [GitHub](https://github.com/markrosos/quiet-sanctuary/releases).
 2. Extract the downloaded archive to your `Elder Scrolls Online/live/addons/` directory.
 3. Launch the game and ensure the addon is enabled.
 
