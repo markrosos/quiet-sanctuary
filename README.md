@@ -2,6 +2,10 @@
 
 Quiet Sanctuary is an Elder Scrolls Online addon designed to adjust the ambient volume when entering or leaving a player's home.
 
+## On ESOUI:
+
+- https://www.esoui.com/downloads/fileinfo.php?id=3743
+
 ## Features
 
 - Automatically lowers the ambient volume upon entering your home.
